@@ -1,7 +1,7 @@
-<p align="center"><a href="#" ><img width="400rem" height="auto" src="Coding-bro.png" /></a></p>
-
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mansur</h1>
 <h3 align="center">I'm a passionate Web Developer from Uzbekistan.</h3>
+
+<p align="center"><a href="#" ><img width="400rem" height="auto" src="Coding-bro.png" /></a></p>
 
 ## 🙋‍♂️ About Me
 
