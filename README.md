@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Developing**
 
-- 🌱 I’m currently learning **CS50 Computer Science Course**
+- 🌱 I’m currently learning on **CS50 Computer Science Course**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
